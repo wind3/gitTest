@@ -1,3 +1,4 @@
 new file
 make conflicts to file1
 测试：未合并时删除分支；
+测试：git revert命令的作用
